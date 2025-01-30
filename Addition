@@ -1,0 +1,5 @@
+
+Int a=5;
+Int b= 6;
+Int sum = a+b;
+Console.writeline("addition of a and b is " + sum );
