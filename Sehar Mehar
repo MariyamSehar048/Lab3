@@ -1,0 +1,11 @@
+Console.WriteLine("Enter ur name:");
+string name = Console.ReadLine();
+Connsole.WriteLine("Enter ur Roll number");
+int roll number= Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter ur department");
+string Department = Console.ReadLine();
+
+Console.WriteLine(" ur name is :"+ {name});
+Console.WriteLine(" ur department is :"+ {depaartment});
+Console.WriteLine(" ur Roll number is :"+ {Roll number});
+
